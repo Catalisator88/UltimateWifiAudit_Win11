@@ -1,0 +1,3 @@
+C:\Users\elena\Desktop\UltimateWifiAudit_Win11\WifiCore_CS\obj\Release\net481\WifiCore.csproj.AssemblyReference.cache
+C:\Users\elena\Desktop\UltimateWifiAudit_Win11\WifiCore_CS\obj\Release\net481\WifiCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elena\Desktop\UltimateWifiAudit_Win11\WifiCore_CS\obj\Release\net481\WifiCore.csproj.CoreCompileInputs.cache

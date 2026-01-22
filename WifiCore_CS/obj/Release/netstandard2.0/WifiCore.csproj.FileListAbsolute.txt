@@ -1,0 +1,8 @@
+C:\Users\elena\Desktop\UltimateWifiAudit_Win11\WifiCore_CS\obj\Release\netstandard2.0\WifiCore.csproj.AssemblyReference.cache
+C:\Users\elena\Desktop\UltimateWifiAudit_Win11\WifiCore_CS\obj\Release\netstandard2.0\WifiCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elena\Desktop\UltimateWifiAudit_Win11\WifiCore_CS\obj\Release\netstandard2.0\WifiCore.csproj.CoreCompileInputs.cache
+C:\Users\elena\Desktop\UltimateWifiAudit_Win11\WifiCore_CS\bin\Release\netstandard2.0\WifiCore.deps.json
+C:\Users\elena\Desktop\UltimateWifiAudit_Win11\WifiCore_CS\bin\Release\netstandard2.0\WifiCore.dll
+C:\Users\elena\Desktop\UltimateWifiAudit_Win11\WifiCore_CS\bin\Release\netstandard2.0\WifiCore.pdb
+C:\Users\elena\Desktop\UltimateWifiAudit_Win11\WifiCore_CS\obj\Release\netstandard2.0\WifiCore.dll
+C:\Users\elena\Desktop\UltimateWifiAudit_Win11\WifiCore_CS\obj\Release\netstandard2.0\WifiCore.pdb

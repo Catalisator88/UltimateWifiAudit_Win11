@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <!-- Меняем на .NET Standard 2.0 или .NET 8.0 -->
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <OutputType>Library</OutputType>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+    <AssemblyName>WifiCore</AssemblyName>
+  </PropertyGroup>
+  <!-- Добавляем пакет -->
+  <ItemGroup>
+    <PackageReference Include="ManagedNativeWifi" Version="3.0.2" />
+  </ItemGroup>
+</Project>
